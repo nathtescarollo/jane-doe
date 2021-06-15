@@ -63,8 +63,8 @@ iframe {
     text-align: center;
 }
 
-#about h2 {
-    font-size: 24px;
+h2 {
+    font-size: 28px;
 }
 
 section#management, section#booking, section#label {
